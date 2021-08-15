@@ -132,7 +132,7 @@ namespace Task
                         cmd.Parameters.AddWithValue("@parameter_id", id);
                         cmd.ExecuteNonQuery();
                         student_list.Rows.RemoveAt(row.Index);
-                        MessageBox.Show("Removed Successfully");
+                       // MessageBox.Show("Removed Successfully");
                     }
                     int i = 0; 
                     foreach(DataGridViewRow row in student_list.Rows)
