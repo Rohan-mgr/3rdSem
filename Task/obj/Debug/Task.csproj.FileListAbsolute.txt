@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\Task\Task\obj\Debug\Task.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Task\Task\obj\Debug\Task.Properties.Resources.resources
+C:\Users\HP\source\repos\Task\Task\obj\Debug\Task.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Task\Task\bin\Debug\Task.exe.config
+C:\Users\HP\source\repos\Task\Task\bin\Debug\Task.exe
+C:\Users\HP\source\repos\Task\Task\bin\Debug\Task.pdb
+C:\Users\HP\source\repos\Task\Task\obj\Debug\Task.exe
+C:\Users\HP\source\repos\Task\Task\obj\Debug\Task.pdb
+C:\Users\HP\source\repos\Task\Task\obj\Debug\Task.FormDB.resources
